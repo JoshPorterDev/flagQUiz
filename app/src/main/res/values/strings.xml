@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FlagQuiz</string>
+    <string name="headerText">Flag Quiz</string>
+    <string name="explanation">An image of a country\'s flag will appear, guess the country correctly to receive a point.</string>
+    <string name="buttonText">Start Game</string>
+    <string name="startOverText">Start Over</string>
+    <string name="playAgain">Play Again</string>
+
+    <string name="roundNumber">Round %d</string>
+    <string name="placeholder">placeholder</string>
+    <string name="resultsText">You scored %d/10</string>
+</resources>
